@@ -1,6 +1,6 @@
 # Purchase Transaction API
 
-Spring Boot microservice to:
+microserviço springboot, onde teremos uma pipeline de  deploy do projeto, olha que coisa linda!Spring Boot microservice to:
 
 - store purchase transactions in USD;
 - retrieve transactions by ID;
